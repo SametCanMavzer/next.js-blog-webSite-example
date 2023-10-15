@@ -8,7 +8,6 @@
 .logo {
     font-weight: bold;
     font-size: 22px;
-
 }
 
 .links {
@@ -21,7 +20,7 @@
     padding: 5px;
     border: none;
     background-color: #53c28b;
-    border-radius: 3px;
     color: white;
-    cursor: pointer
+    cursor: pointer;
+    border-radius: 3px;
 }
